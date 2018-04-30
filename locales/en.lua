@@ -59,5 +59,22 @@ Locales['en'] = {
   ['not_enough_medikit'] = 'You do not have ~b~medikit~w~.',
   ['not_enough_bandage'] = 'You do not have ~b~bandage~w~.',
   ['healed'] = 'you have been treated.',
-  -- Misc
+    --NPC
+  ['have_earned'] = 'you have won ~g~$',
+  ['comp_earned'] = 'your company has won ~g~$',
+  ['taking_service'] = 'taking service : ',
+  ['mission_complete'] = 'mission Completed',
+  ['drive_search_pass'] = 'drive in search of ~y~patients',
+  ['customer_found'] = 'you have ~g~found~s~ a patient, drive until last',
+  ['client_unconcious'] = 'your patient is ~r~unconscious~w~. Look for another one.',
+  ['arrive_dest'] = 'you have ~g~arrived~s~ at your destination',
+  ['take_me_to_near'] = '~w~Take me to~y~ %s~w~, near~y~ %s',
+  ['take_me_to'] = '~w~Take me to~y~ %s',
+  ['close_to_client'] = 'you are close to the patient, get close to them',
+  ['return_to_veh'] = 'please return to your vehicle to continue the mission',
+
+  ['billing'] = 'billing',
+  ['invoice_amount'] = 'invoice amount',
+  ['amount_invalid'] = 'amount invalid',
+  ['no_players_near'] = 'no players nearby',
 }
